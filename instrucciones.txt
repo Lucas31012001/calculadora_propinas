@@ -1,0 +1,1 @@
+Para que arranque el servidor de desarrollo poner en el terminal: npm run dev
